@@ -1,0 +1,17 @@
+#blt-content {
+  height: 200px;
+  border: 1px solid;
+  overflow: auto;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+td {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
